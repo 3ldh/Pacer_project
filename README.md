@@ -1,10 +1,7 @@
 # Pacer_project
-Platformer 2d - Unity - status : standby
+Prototype Platformer 2d - Unity
 
-Pacer is a project i've been working on with my cousin.
-It is currently on standby.
-Here is a prototype.
-Keep in mind that it is an early prototype and it contains a few bugs.
+### CAUTION : old and early prototype, mind the bugs !
 
 We recomend you use a controller to test it out.
 Press ESCAPE to congigure the inputs.
