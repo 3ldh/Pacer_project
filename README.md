@@ -1,7 +1,7 @@
 # Pacer_project
 Prototype Platformer 2d - Unity
 
-### CAUTION : old and early prototype, mind the bugs !
+#### CAUTION : old and early prototype, mind the bugs !
 
 We recomend you use a controller to test it out.
 Press ESCAPE to congigure the inputs.
